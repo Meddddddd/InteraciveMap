@@ -1,0 +1,7 @@
+{
+  "name": "Interactive Map",
+  "version": "1.0.0",
+  "dependencies": {
+    "firebase": "^10.9.0"
+  }
+}
